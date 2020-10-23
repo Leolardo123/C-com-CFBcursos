@@ -5,3 +5,11 @@
   Esse curso contém um total de 130 aulas, onde é ensinado do C# do básico até orientação a objeto e formulários e banco de dados com o framework .NET
   
   ✔[#c5f015]Aulas Feitas
+Aula 1 - Preparação de ambiente - .Net + Visual Studio Code
+Aula 2 - Estrutura Básica de um programa C#
+       | Similaridades com Java
+       | Criação de projeto com comando dotNet new console
+Aula 3 - Variáveis
+       | byte,int,char,float,string,var
+       | var -> tipo é definido em tempo de compilação
+       | concatenação de string + operações básicas com números
