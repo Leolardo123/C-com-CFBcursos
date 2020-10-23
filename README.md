@@ -11,4 +11,6 @@
 :--------:|------------------------------------------------------|-------------------------
 Aula 1    | Preparação de ambiente - .Net + Visual Studio Code   |Varivavel de ambiente PATH </br> .NetCore SDK, .Net Framework Runtime e DevPack
 Aula 2    | Primeiro programa no padrão C#           |Similaridades com Java </br> Criação de projeto com comando 'dotNet new console'
-Aula 3    | Variáveis </br>                                      |byte,int,char,float,string,var </br> var -> tipo é definido em tempo de compilação </br> concatenação de string + operações básicas com números
+Aula 3    | Variáveis                                            |byte,int,char,float,string,var </br> var -> tipo é definido em tempo de compilação </br> concatenação de string + operações básicas com números
+Aula 4    | Escopo de variáveis                                  |escopo global e local </br> coerencia entre variavel global e método
+
