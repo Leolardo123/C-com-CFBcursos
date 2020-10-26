@@ -14,3 +14,4 @@ Aula 2    | Primeiro programa no padrão C#           |Similaridades com Java </
 Aula 3    | Variáveis </br>                                      |byte,int,char,float,string,var </br> var -> tipo é definido em tempo de compilação </br> concatenação de string + operações básicas com números
 Aula 4    | Escopo de variáveis                                       |Variável global e local
 Aula 5    | Operadores e operações                                     |Principais operadores, Operadores matemáticos, Lógicos e Relacionais</br> -,+,*,/,() e booleanos/relacionais:=,==
+Aula 6    | Formatação da saída do console                             |formatação automática de textos no console </br> {variavel,espaco:formatação}
