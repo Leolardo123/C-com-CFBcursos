@@ -13,3 +13,4 @@ Aula 1    | Preparação de ambiente - .Net + Visual Studio Code   |Varivavel de
 Aula 2    | Primeiro programa no padrão C#           |Similaridades com Java </br> Criação de projeto com comando 'dotNet new console'
 Aula 3    | Variáveis </br>                                      |byte,int,char,float,string,var </br> var -> tipo é definido em tempo de compilação </br> concatenação de string + operações básicas com números
 Aula 4    | Escopo de variáveis </br>                                      |Variável global e local
+Aula 5    | Escopo de variáveis </br>                                      |Principais operadores, Operadores matemáticos, Lógicos e Relacionais</br> -,+,*,/ e booleanos/relacionais:=,==
