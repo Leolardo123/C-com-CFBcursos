@@ -15,3 +15,4 @@ Aula 3    | Variáveis </br>                                      |byte,int,char
 Aula 4    | Escopo de variáveis                                       |Variável global e local
 Aula 5    | Operadores e operações                                     |Principais operadores, Operadores matemáticos, Lógicos e Relacionais</br> -,+,*,/,() e booleanos/relacionais:=,==
 Aula 6    | Formatação da saída do console                             |formatação automática de textos no console </br> {variavel,espaco:formatação}
+Aula 7    | Constantes                            |Conceitos e aplicações de constantes em c#
