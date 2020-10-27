@@ -19,3 +19,5 @@ Aula 7    | Constantes                            |Conceitos e aplicações de c
 Aula 8    | Lendo Valores do teclado                            |Read e Realine </br> convesão de entrada do console (string) para tipo da variavel desejada
 Aula 9    | operadores bitwise                           | movendo bits para dobrar ou dividir valores </br> << dobra valor e >> divide o valor
 Aula 10    | Enumeradores                           |  Cria um elemento que possue uma estrutura de váriaveis , permite criação de tipos personalizados
+Aula 11    | typecast                        |Conversão de tipo explícita </br> usada quando conversão implícita nao é segura (tipo que esta recebendo valor é menor que tipo que esta sendo atribuido)
+Aula 12    | If                       |opera expressões lógicas de forma a executar ou não um bloco de código
