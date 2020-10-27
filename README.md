@@ -16,3 +16,4 @@ Aula 4    | Escopo de variáveis                                       |Variáve
 Aula 5    | Operadores e operações                                     |Principais operadores, Operadores matemáticos, Lógicos e Relacionais</br> -,+,*,/,() e booleanos/relacionais:=,==
 Aula 6    | Formatação da saída do console                             |formatação automática de textos no console </br> {variavel,espaco:formatação}
 Aula 7    | Constantes                            |Conceitos e aplicações de constantes em c#
+Aula 8    | Lendo Valores do teclado                            |Read e Realine </br> convesão de entrada do console (string) para tipo da variavel desejada
