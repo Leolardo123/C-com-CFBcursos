@@ -17,3 +17,5 @@ Aula 5    | Operadores e operações                                     |Princi
 Aula 6    | Formatação da saída do console                             |formatação automática de textos no console </br> {variavel,espaco:formatação}
 Aula 7    | Constantes                            |Conceitos e aplicações de constantes em c#
 Aula 8    | Lendo Valores do teclado                            |Read e Realine </br> convesão de entrada do console (string) para tipo da variavel desejada
+Aula 9    | operadores bitwise                           | movendo bits para dobrar ou dividir valores </br> << dobra valor e >> divide o valor
+Aula 10    | Enumeradores                           |  Cria um elemento que possue uma estrutura de váriaveis , permite criação de tipos personalizados
